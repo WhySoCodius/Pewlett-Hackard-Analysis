@@ -16,7 +16,7 @@ ERD A strong database design must start with an entity-relationship diagram (ERD
 ### Software:
 
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
-[![Visual Studio](https://badgen.net/badge/icon/visualstudio?
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
@@ -46,11 +46,6 @@ The number of employees, broken down by job title, who are of retirement age and
 ## Summary
 
 Pewlett-Hackard will need to train new workers to fill these open roles as the number of retirements starts to have an effect. 72,456 positions will eventually need to be filled in all departments. Even two high-level managment positions must be filled.
-
-
-
-
-
 
 One potential solution is to construct a firm mentoring program, which would have qualified, retirement-ready staff train the next generation of Pewlett-Hackard personnel. The positions held by the qualified mentors are broken down in the table below.
 
