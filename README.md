@@ -16,15 +16,15 @@ ERD A strong database design must start with an entity-relationship diagram (ERD
 ### Software:
 
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
-[![Visual Studio](https://badgen.net/badge/icon/visualstudio?)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ## Results
 
 Looking at a company's personnel records using PostgreSQL allowed us to filter out the number of retiring employees by position. 
-
-![retiring_titles](/Resources/retiring_titles.png)
 
 The number of employees, broken down by job title, who are of retirement age and were born between January 1, 1952, and December 31, 1955, is shown in the table below.
 
